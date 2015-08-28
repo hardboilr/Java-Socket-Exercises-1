@@ -1,2 +1,2 @@
-#Exercise 3 Echo server with extended protocol
+#Exercise 3 - Echo server with extended protocol
 Refer to code.
